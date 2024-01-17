@@ -32,29 +32,36 @@ The analysis is divided into five main sections, each addressing key questions a
 ## Visualizations
 The following plots were generated as part of the analysis and are included in the repository:
 
-1. **Counts of Crimes by Category**  
-   ![Crimes Reported by crime category](/Plot_Images/1_Crime-type-counts-bar.png)
+ 
+   <img src="Plot_Images/1_Crime-type-counts-bar.png" width="500">
 
-2. **Counts of Each Felony Type**  
-   ![Reported Felonies by felony type](/Plot_Images/2_Felony-types-hbar.png)
+   ---
 
-3. **Total Felonies Yearly**  
-   ![Total felonies over time - yearly](/Plot_Images/3_Total-felonies-yearly.png)
+   <img src="Plot_Images/2_Felony-types-hbar.png" width="600">
 
-4. **Total Felonies Monthly Frequency**  
-   ![Total felonies over time - monthly](/Plot_Images/4_Monthly-felonies.png)
+   ---
 
-5. **Felonies by Month**  
-   ![Felonies over time by felony type - monthly](/Plot_Images/5_Monthly-felonies-by-type.png)
+   <img src="Plot_Images/3_Total-felonies-yearly.png" width="900">
 
-6. **Major Felonies by Hour of Day**  
-   ![Felony rates by hour of the day](Plot_Images/6_Major-felonies-by-hour-of-day.png)
+   ---
 
-7. **Normalized Major Felonies by Hour of Day**  
-   ![Normalized Felony rates by hour of the day](Plot_Images/7_Major-felonies-by-hour-normalized.png)
+   <img src="Plot_Images/4_Monthly-felonies.png" width="900">
 
-8. **Spatial Analysis of Major Felonies**  
-   ![Density plots of major felonies over the NYC map](Plot_Images/8_Density_plots.png)
+   ---
+
+   <img src="Plot_Images/5_Monthly-felonies-by-type.png" width="900">
+
+   ---
+
+   <img src="Plot_Images/6_Major-felonies-by-hour-of-day.png" width="900">
+
+   ---
+
+   <img src="Plot_Images/7_Major-felonies-by-hour-normalized.png" width="900">
+
+   ---
+
+   <img src="Plot_Images/8_Density_plots.png" width="1000">
 
 ## Tools and Technologies
 - **Python**: Data analysis and visualization.
