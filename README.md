@@ -32,36 +32,47 @@ The analysis is divided into five main sections, each addressing key questions a
 ## Visualizations
 The following plots were generated as part of the analysis and are included in the repository:
 
+---
+
  
-   <img src="Plot_Images/1_Crime-type-counts-bar.png" width="500">
+<img src="Plot_Images/1_Crime-type-counts-bar.png" width="500">
+
 
    ---
 
-   <img src="Plot_Images/2_Felony-types-hbar.png" width="600">
+<img src="Plot_Images/2_Felony-types-hbar.png" width="600">
 
    ---
 
-   <img src="Plot_Images/3_Total-felonies-yearly.png" width="900">
+<img src="Plot_Images/3_Total-felonies-yearly.png" width="900">
+Overall crime reports were on a steady downward trend from 2006 to 2019, with a sharp decline in 2020 due to Covid restrictions. Crime spiked dramatically after Covid restrictions were lifted.
 
    ---
 
-   <img src="Plot_Images/4_Monthly-felonies.png" width="900">
+<img src="Plot_Images/4_Monthly-felonies.png" width="900">
+The monthly frequency graph shows clear seasonal trends in crime as crime reports decrease in winter months and reach highs during the summer months.
 
    ---
 
-   <img src="Plot_Images/5_Monthly-felonies-by-type.png" width="900">
+<img src="Plot_Images/5_Monthly-felonies-by-type.png" width="900">
+The breakdown of felony type shows the same seasonality trends across all felony types.
 
    ---
 
-   <img src="Plot_Images/6_Major-felonies-by-hour-of-day.png" width="900">
+<img src="Plot_Images/6_Major-felonies-by-hour-of-day.png" width="900">
+The peak hours of the day for reported crimes seem contrary to popular belief that crime would be most frequent in the late hours of the night. This shows crime reports are most frequent at noon and between the hours of 3pm and 6pm.
+   
+   ---
+
+ <img src="Plot_Images/7_Major-felonies-by-hour-normalized.png" width="900">
+ The majority of reported crimes that occur in the middle of the day is grand larceny (~50%), while burglary, felony assault, and robbery are more frequent at night time and early morning.
 
    ---
 
-   <img src="Plot_Images/7_Major-felonies-by-hour-normalized.png" width="900">
+ <img src="Plot_Images/8_Density_plots.png" width="1000">
+ Upper Manhatten and Lower Manhatten are where most of the crime reports occur.
 
-   ---
-
-   <img src="Plot_Images/8_Density_plots.png" width="1000">
+ ---
 
 ## Tools and Technologies
 - **Python**: Data analysis and visualization.
